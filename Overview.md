@@ -24,11 +24,11 @@ As you can see, by using Chart.js, you have the option to customize almost every
 
 To change the type of the graph its as simple as changing the name:
 
-![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/65828686-ede6-44ee-9a78-46c5548f6bf4)
+![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/65828686-ede6-44ee-9a78-46c5548f6bf4) [1]
 
 Finally, to change the colour of any variable its as simple as changing these numbers:
 
-![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/d8f82b78-fa3d-4d96-ba4c-062224caf12a)
+![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/d8f82b78-fa3d-4d96-ba4c-062224caf12a) [1]
 
 As you can see Chart.js is very user friendly and allows the programmer to customize their chart to their pleasing.
 
