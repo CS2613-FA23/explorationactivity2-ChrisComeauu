@@ -22,6 +22,17 @@ Chart.js offers many possibilities for creating and customizing charts. Example:
 
 As you can see, by using Chart.js, you have the option to customize almost everything, including the chart type, chart size, title(s), chart colors and transparency, background color and transparency, and much more.
 
+To change the type of the graph its as simple as changing the name:
+
+![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/65828686-ede6-44ee-9a78-46c5548f6bf4)
+
+Finally, to change the colour of any variable its as simple as changing these numbers:
+
+![image](https://github.com/CS2613-FA23/explorationactivity2-ChrisComeauu/assets/144265204/d8f82b78-fa3d-4d96-ba4c-062224caf12a)
+
+As you can see Chart.js is very user friendly and allows the programmer to customize their chart to their pleasing.
+
+
 **QUESTION 4**
 
 Chart.js was announced and created in 2013 but has been updated frequenctly and come a long way since then. [1]
